@@ -1,8 +1,8 @@
 import './App.css'
 import Nav from './components/Nav'
 import Cards from './components/Cards'
-import Footer from './components/footer'
-import Hero from './components/hero'
+import Footer from './components/Footer'
+import Hero from './components/Hero'
 
 function App() {
 
