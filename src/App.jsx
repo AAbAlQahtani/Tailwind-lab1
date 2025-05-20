@@ -1,6 +1,6 @@
 import './App.css'
 import Nav from './components/Nav'
-import Cards from './components/cards'
+import Cards from './components/Cards'
 import Footer from './components/footer'
 import Hero from './components/hero'
 
